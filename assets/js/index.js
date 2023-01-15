@@ -29,10 +29,10 @@ function load() {
   queue.loadManifest([
     'assets/images/logo.png',
     'assets/images/favicon.png',
-    'assets/images/games.png',
+    'assets/images/games.jpg',
     'assets/images/team.png',
     'assets/images/about.png',
-    'assets/images/featured_game.png',
+    'assets/images/featured_game.jpg',
   ]);
   queue.addEventListener('complete', handleComplete);
 }
